@@ -28,6 +28,13 @@ This is the part where we are more technical and procedural. We add more clarity
   This gives the developer more clarity.
   Okay. We need a API, we need a Caching system, we need a app state. We need a Data module, and so on...
 
+- After we've gotten our requirements, spoke with every team: Bussiness, Analisyst, Designer, etc. we start building our ```diagrams```. This way we represent our requirements, and we can find flaws, come back to the team we found a flaw, ```COMMUNICATE``` the flaw, come back and redo the diagram.
+- When we have a ```Diagram``` with all the requirements, and our ```Architecture``` is complete 🙌
+
+## Takeaway ❗️
+- if there are no requirements, then we have **_100% failed_** our architecture
+- 
+
 ## Why do we need diagrams?
 - it is a sort of communication
 - it is a message for us in the future
