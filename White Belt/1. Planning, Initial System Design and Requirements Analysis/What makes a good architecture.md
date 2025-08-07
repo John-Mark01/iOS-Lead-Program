@@ -33,9 +33,13 @@ This is the part where we are more technical and procedural. We add more clarity
 
 ## Takeaway ❗️
 - if there are no requirements, then we have **_100% failed_** our architecture
-- 
+- communicating the ```BDD```, and ```Use Cases``` is **EVERYBODY'S** job!
+- It's better to spend more time _planning_, then jumping straight into coding.
 
-## Why do we need diagrams?
-- it is a sort of communication
+
+
+## Bonus 🔥
+### Why do we need diagrams?
+- it is a tool for communication
 - it is a message for us in the future
-- it's clarity, and a validator.
+- it's clarity, and a validator of the initial idea
