@@ -1,2 +1,7 @@
-# iOS-Lead-Program
-These are my notes from the iOS Lead Essentials program.
+# Are ```Singletons``` and ```Global Systems``` damaging your system design?
+
+## How can i test the ```network layer```?
+
+
+
+## Should I be using ```Singletons```?
